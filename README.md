@@ -89,6 +89,4 @@ b-b1ce-4997-be8f-54aa57b8491b">
 <img width="1440" alt="Screenshot 2023-09-19 at 2 13 14 PM" src="https://github.com/xxrdfixx/Smart_mobility/assets/117630185/23951f67-b8bd-468d-b6bc-b81a71e2b3f4">
 <img width="1440" alt="Screenshot 2023-09-15 at 10 14 19 AM" src="https://github.com/xxrdfixx/Smart_mobility/assets/117630185/09bbe9f2-529f-46a3-8c32-3e58c70684dd">
 <img width="1440" alt="Screenshot 2023-09-05 at 11 26 27 AM" src="https://github.com/xxrdfixx/Smart_mobility/assets/117630185/151b3a88-5772-44c4-b37e-98d1cc318847">
-<img width="1440" alt="Screenshot 2023-09-05 at 9 20 52 AM" src="https://github.com/xxrdfixx/Smart_mobility/assets/117630185/067f16d0-e661-4b22-83f0-8a1845048c31">
-<img width="1440" alt="Screenshot 2023-07-17 at 3 46 52 PM" src="https://github.com/xxrdfixx/Smart_mobility/assets/117630185/22482ea9-1415-4aee-9c45-a0ec5dc93b70">
-<img width="1440" alt="Screenshot 2023-07-17 at 3 42 21 PM" src="https://github.com/xxrdfixx/Smart_mobility/assets/117630185/8712e7d8-ce08-442d-be98-e9cd90109dbd">
+
